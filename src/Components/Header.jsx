@@ -1,9 +1,13 @@
 import React from 'react'
 
-export default function Offers() {
+
+export default function Header() {
     return (
         <div>
-            offer
+
+
+
+
         </div>
     )
 }

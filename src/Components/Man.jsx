@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Offers() {
+const Man = () => {
     return (
         <div>
-            offer
+            <p>hammed niti fjfj</p>
         </div>
     )
 }
+
+export default Man
